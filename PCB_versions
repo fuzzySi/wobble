@@ -3,6 +3,6 @@ Silkscreen error meaning part numbers are not marked.
 There is also an offset on the optional normalled gate input pins, meaning the overlying jack socket (output 3) needs filing if pins are used. 
 
 
-
-PCB v1.0 Not released in the wild. 
-Size error on 8 pin DIP footprint (10mmm width, should be 7mm) making it harder to solder. The transistor spacing is overly close as well. 
+PCB v1.0 Not released in the wild...
+Size error on 8 pin DIP footprint (10mmm width, should be 7mm) making it harder (but still possible) to solder. The transistor spacing is overly close as well. 
+v1.0 and above has square corners, later versions are slightly rounded. 
